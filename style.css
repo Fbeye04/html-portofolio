@@ -1,0 +1,21 @@
+body{
+    background-color: rgba(0, 0, 0, 0.352);
+}
+h1{
+    color: #141c3a;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+p{
+    color: #141c3a;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 18px;
+}
+
+h3, a{
+    color: #141c3a;
+    font-family: Arial, Helvetica, sans-serif;
+}
